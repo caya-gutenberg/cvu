@@ -36,13 +36,17 @@ answer = "You can use it for anything. If you want to roll the funds use, just f
 [[items]]
 
 question = "What is rolling use of funds?"
-answer = "Rolling is defined as use of funds beyond 30days and it will only be considered a rolled fund if you paid the corresponding interest. Failure to pay the corresponding interest within 30days would mean you incur the penalty rate."
+answer = "Rolling is defined as use of funds beyond 30days with interest paid prior to 30th day or flexi-term interest was availed. Failure to pay the corresponding interest within the 30th day would mean you incur the penalty rate."
+
+[[items]]
+
+question = "When does 30days counting start for rolled loan?"
+answer = "30days counting will start from the next calendar day after interest or interest with penalty was paid."
 
 [[items]]
 
 question = "What is flexi-terms?"
 answer = "You don't need to register for flexi-terms as it is automatic. Flexi-terms means, you pay the interest every 10days with 1.5% interest. Take note that this is only effective for the 1st to 20th day or a total of 3.0% interest. After that, you will automatically be paying the normal interest which is 3.5% and penalty if beyond 30days."
-
 
 [[items]]
 
