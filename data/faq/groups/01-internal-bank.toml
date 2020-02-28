@@ -50,6 +50,11 @@ answer = "You don't need to register for flexi-terms as it is automatic. Flexi-t
 
 [[items]]
 
+question = "Any rules on penalty?"
+answer = "0.35% penalty is counted every 5days. So in 30days, you will have a total of 2.1% penalty. Pay it together with the intended interest and your loan will become clean and be marked as rolled."
+
+[[items]]
+
 question = "Is there limit on the loan amount?"
 answer = "Yes, maximum is Php500 at this time."
 
